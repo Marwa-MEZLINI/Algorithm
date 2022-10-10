@@ -1,9 +1,0 @@
-linear search
-var : tav[],x=int
-begin
-read(tab[])
-read(x)
-For (i=0,i< lentab[], i++)
-if (tab[i]==x)
- write(i)
-end 

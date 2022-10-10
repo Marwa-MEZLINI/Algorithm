@@ -1,1 +1,0 @@
-The linear search algorithm allows the search of a specific element in a list of elements. It starts from one end and goes through every elemnt of the list, it compares the searched element (x) with the value of every index untill they match.
