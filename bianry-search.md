@@ -1,0 +1,2 @@
+binary search is a searching algorithm for finding an element's position in a an already sorted table or list.
+It's a "divide and conquer" algorithm that facilitates the search by deviding the table (or list) into tow halfs and compares the searched-for item (lets name it X) to the middle item (lets name it Y). In an ascending order dorted table, if X is greater than Y the algorithm will move to the right half of the table and do the process again (devide into tow halfs and compare the X to the Y) and if X is less than Y then it will do the process on the left half.
