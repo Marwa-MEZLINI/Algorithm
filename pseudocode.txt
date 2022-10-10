@@ -1,0 +1,16 @@
+bubble sorting
+var : tav[],n=int
+begin
+read(tab[])
+
+while(tab[i]<tab[i+1])
+
+    For (i=0, i<n-1 , i++)
+
+        if (tab[i]>tab[i+1])
+            tab[i]=tab[i+1]
+        endif
+    endfor
+endwhile
+
+end 
