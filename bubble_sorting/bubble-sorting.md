@@ -1,0 +1,2 @@
+The bubble sorting is an algorithm that compares elements two by two and swap them when they are not in the right order.
+For example, in a list of numbers, the bubble sorting algorithm compares the two first numbers and if it is necessary, it swaps them in an ascending order. 
