@@ -1,0 +1,12 @@
+linear search
+var : tab[],to_find=int
+begin
+tab[] = read(INPUT)
+to_find = read(INPUT)
+
+    For (i=0, i < len(tab[]), i++)
+        if (tab[i]==x)
+             write(i)
+        endif
+    endfor
+end 
